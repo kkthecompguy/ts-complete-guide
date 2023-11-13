@@ -1,0 +1,20 @@
+{
+  "name": "web-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:web": "parcel index.html"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "parcel": "^2.10.1"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "json-server": "^0.17.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
